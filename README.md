@@ -3,6 +3,10 @@ cordova-demos
 
 Just some demos that I put together on Cordova for Android
 
+Includes iBeaconPlugin
+----------------------
+This includes the iBeaconPlugin, but I couldn't get it to work. It would return to me an empty array of beacons. It wouldn't find the beacons. So, that is better than an error, but not as good as working. https://github.com/attendease/iBeaconsPlugin
+
 Had Some Troubles
 -------------
 - From the terminal I had to type "android" to get the SDK manager to open. Then from there I had to install the API Level 19. 
