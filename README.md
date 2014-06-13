@@ -5,7 +5,7 @@ Just some demos that I put together on Cordova for Android
 
 Includes iBeaconPlugin
 ----------------------
-This includes the iBeaconPlugin, but I couldn't get it to work. It would return to me an empty array of beacons. It wouldn't find the beacons. So, that is better than an error, but not as good as working. https://github.com/attendease/iBeaconsPlugin
+This includes the iBeaconPlugin, so that you can work with cordova and ibeacon to triangulate position, but I couldn't get it to work. It would return to me an empty array of beacons. It wouldn't find the beacons. So, that is better than an error, but not as good as working. https://github.com/attendease/iBeaconsPlugin
 
 Had Some Troubles
 -------------
