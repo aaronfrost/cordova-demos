@@ -1,0 +1,23 @@
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes.dex : \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeaconAlertActivity$1.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeaconAlertActivity.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeaconConsumer$1.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeaconConsumer$2.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeaconConsumer.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/com/attendease/ibeacons/AttendeaseBeacons.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/HelloCordova.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/org/apache/cordova/camera/CameraLauncher.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/org/apache/cordova/camera/ExifHelper.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/org/apache/cordova/camera/FileHelper.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/org/apache/cordova/devicemotion/AccelListener$1.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/classes/org/apache/cordova/devicemotion/AccelListener.class \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/dexedLibs/classes-4a2357e55a5e2ac55d1f2a1778645076.jar \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/dexedLibs/classes-2a3fdf1dc5211746fc4bd39de1bbd020.jar \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/dexedLibs/classes-669494176f0a954bb0b324856b573375.jar \
+/Users/frost/WebstormProjects/beacon/dustinbeacon/dustin/platforms/android/ant-build/dexedLibs/android-support-v13-52bbad133aca0d441bae84f756537a88.jar \
